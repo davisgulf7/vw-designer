@@ -1,0 +1,60 @@
+{
+  "project_id": "vw_instruction_agent",
+  "project_title": "Virtual World Design Framework",
+  "version": "1.0",
+  "last_updated": "2026-03-21",
+  "entrypoint": {
+    "start_here": "index.html",
+    "ai_usage_note": "Load index.html first for the full operating framework. Use dashboard_index.json for triage, ssot_seed_map.json for routing, manifest.json for full extraction, and ssot/ for verification. Use the linked placeholder pages as future extension points."
+  },
+  "files": {
+    "homepage": {
+      "path": "index.html",
+      "type": "html",
+      "purpose": "Primary AI operating instructions and virtual world design framework"
+    },
+    "dashboard_index": {
+      "path": "dashboard_index.json",
+      "type": "json",
+      "purpose": "Fast source triage by domain, relevance, group, SSOT target, and module"
+    },
+    "ssot_seed_map": {
+      "path": "ssot_seed_map.json",
+      "type": "json",
+      "purpose": "Maps source IDs to candidate SSOT documents and recommended agent modules"
+    },
+    "manifest": {
+      "path": "manifest.json",
+      "type": "json",
+      "purpose": "Full source records with extraction fields, traceability, quotes, and implementation notes"
+    },
+    "framework_doc": {
+      "path": "planning/instructional framework.docx",
+      "type": "docx",
+      "purpose": "Canonical framework source for world design behavior and required output structure"
+    },
+    "generator": {
+      "path": "planning/generate_lm_vr_manifest.py",
+      "type": "python",
+      "purpose": "Manifest generation pipeline for rebuilding the JSON assets"
+    },
+    "ssot_folder": {
+      "path": "ssot/",
+      "type": "directory",
+      "purpose": "Original source corpus used for verification and traceability"
+    }
+  },
+  "recommended_access_pattern": [
+    "Open ai-index.json or index.html first.",
+    "Use dashboard_index.json to shortlist relevant records.",
+    "Use ssot_seed_map.json to identify SSOT targets and agent modules.",
+    "Use manifest.json for complete extraction data.",
+    "Open original files in ssot/ when exact evidence is needed."
+  ],
+  "agent_rules": [
+    "Do not summarize generically.",
+    "Prefer original source files over extracted metadata if any conflict appears.",
+    "Preserve traceability to source file name and path.",
+    "Use the virtual world design framework in index.html as the behavioral contract for generation."
+  ]
+}

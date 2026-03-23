@@ -1,0 +1,501 @@
+{
+  "project_manifest": {
+    "project_id": "vw_instruction_agent",
+    "project_title": "Virtual World Instruction Agent Source Manifest",
+    "project_description": "Structured source manifest for building SSOT documents and agent-ready design assets for virtual-world-based instructional experiences aligned to standards.",
+    "version": "1.0",
+    "last_updated": "YYYY-MM-DD",
+    "manifest_purpose": [
+      "inventory_sources",
+      "classify_relevance",
+      "extract_design_knowledge",
+      "identify_ssot_targets",
+      "support_agent_construction"
+    ],
+    "source_files_root": "./sources/",
+    "ssot_output_root": "./ssot/",
+    "dashboard_output_root": "./dashboard/",
+    "schema_notes": {
+      "one_record_per_source_file": true,
+      "allow_multiple_chunks_per_source": true,
+      "favor_structured_extraction_over_generic_summary": true,
+      "preserve_traceability_to_original_file": true
+    }
+  },
+  "source_record_schema": {
+    "id": "string",
+    "title": "string",
+    "short_title": "string",
+    "source_file_name": "string",
+    "source_file_path": "string",
+    "source_format": "pdf|txt|docx|html|md|other",
+    "source_type": "research_article|chapter|book|guide|tutorial|case_study|technical_doc|curriculum_resource|web_page|mixed",
+    "authors": ["string"],
+    "year": "string",
+    "publisher_or_journal": "string",
+    "doi_or_url": "string",
+    "citation_text": "string",
+
+    "high_level_relevance": {
+      "overall_relevance_score": "0-5",
+      "why_relevant": "string",
+      "recommended_for_dashboard": "boolean",
+      "recommended_for_agent_training": "boolean",
+      "recommended_for_ssot_generation": "boolean"
+    },
+
+    "knowledge_domains": [
+      "assessment",
+      "evidence_centered_design",
+      "stealth_assessment",
+      "virtual_worlds",
+      "OpenSim",
+      "Second_Life",
+      "simulation",
+      "role_play",
+      "scenario_based_learning",
+      "storytelling",
+      "serious_games",
+      "project_based_learning",
+      "experiential_learning",
+      "collaborative_learning",
+      "teacher_roles",
+      "student_agency",
+      "world_building",
+      "scripting",
+      "platform_skills",
+      "instructional_design",
+      "standards_alignment",
+      "accessibility",
+      "feedback",
+      "analytics",
+      "adaptivity"
+    ],
+
+    "instructional_use_profile": {
+      "best_for_grade_bands": ["K-2", "3-5", "6-8", "9-12", "higher_ed", "teacher_pd"],
+      "best_for_subjects": ["ELA", "science", "social_studies", "math", "CTE", "arts", "cross_curricular"],
+      "best_for_experience_types": [
+        "virtual_world_game",
+        "role_play_simulation",
+        "branching_scenario",
+        "interactive_storyworld",
+        "virtual_field_trip",
+        "virtual_lab",
+        "collaborative_build",
+        "teacher_designed_world",
+        "student_built_world"
+      ],
+      "supports_instructional_standards_alignment": "boolean",
+      "supports_assessment_design": "boolean",
+      "supports_teacher_planning": "boolean",
+      "supports_student_authoring": "boolean"
+    },
+
+    "pedagogical_extraction": {
+      "teacher_role_prototypes": [
+        "sage_on_stage",
+        "formal_authority",
+        "personal_model",
+        "facilitator",
+        "delegator",
+        "partner"
+      ],
+      "student_role_patterns": [
+        "observer",
+        "explorer",
+        "builder",
+        "collaborator",
+        "problem_solver",
+        "performer",
+        "author",
+        "reflective_learner"
+      ],
+      "pedagogical_strategies": [
+        "experiential_learning",
+        "training_and_modelling",
+        "project_based_learning",
+        "collaborative_observation",
+        "collaborative_problem_solving",
+        "game_based_learning",
+        "exploration_based_learning",
+        "problem_based_learning",
+        "constructionist_learning",
+        "discussion_based_learning"
+      ],
+      "learning_characteristics": [
+        "immersion",
+        "flow",
+        "situated_cognition",
+        "independent_design",
+        "collaboration",
+        "authenticity",
+        "student_choice",
+        "iteration",
+        "real_world_problem_solving"
+      ],
+      "pedagogical_warnings": ["string"],
+      "implementation_notes": ["string"]
+    },
+
+    "assessment_extraction": {
+      "assessment_models": [
+        "traditional",
+        "formative",
+        "summative",
+        "integrative",
+        "embedded",
+        "evidence_centered_design",
+        "stealth_assessment",
+        "adaptive_assessment"
+      ],
+      "evidence_capture_types": [
+        "clickstream",
+        "path_taken",
+        "decision_points",
+        "artifact_creation",
+        "chat_discourse",
+        "collaboration_behavior",
+        "time_on_task",
+        "resource_selection",
+        "reflection",
+        "performance_outcome",
+        "revision_history"
+      ],
+      "competencies_measured": [
+        "problem_solving",
+        "creativity",
+        "systems_thinking",
+        "collaboration",
+        "communication",
+        "content_understanding",
+        "persistence",
+        "decision_making",
+        "strategic_reasoning",
+        "spatial_reasoning"
+      ],
+      "feedback_modes": [
+        "real_time",
+        "embedded",
+        "teacher_review",
+        "self_assessment",
+        "peer_assessment",
+        "post_activity_summary",
+        "adaptive_hinting"
+      ],
+      "assessment_notes": ["string"],
+      "assessment_design_value": "string"
+    },
+
+    "technical_extraction": {
+      "platforms_mentioned": [
+        "OpenSim",
+        "Second_Life",
+        "Active_Worlds",
+        "Minecraft",
+        "web_browser_based",
+        "LMS_based",
+        "custom_engine"
+      ],
+      "technical_topics": [
+        "basic_building",
+        "prims",
+        "mesh",
+        "scripting",
+        "permissions",
+        "inventory",
+        "asset_management",
+        "avatar_use",
+        "navigation",
+        "object_interaction",
+        "world_architecture",
+        "multiplayer_setup",
+        "browser_requirements"
+      ],
+      "technical_difficulty": "low|medium|high",
+      "teacher_dependency_on_technical_support": "low|medium|high",
+      "student_building_possible": "boolean",
+      "technical_notes": ["string"]
+    },
+
+    "ssot_mapping": {
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot",
+        "vw_assessment_engine_ssot",
+        "vw_teacher_prompting_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_standards_alignment_ssot",
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": ["string"],
+      "source_contribution_type": [
+        "core_foundation",
+        "supporting_evidence",
+        "technical_reference",
+        "example_bank",
+        "assessment_reference",
+        "pedagogy_reference"
+      ],
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "assessment_designer",
+        "technical_builder",
+        "teacher_coach",
+        "student_guide"
+      ]
+    },
+
+    "dashboard_fields": {
+      "dashboard_group": "research_foundations|pedagogy|assessment|technical_build|examples|platforms",
+      "dashboard_tags": ["string"],
+      "one_sentence_value": "string",
+      "three_key_takeaways": ["string"],
+      "best_entry_points": ["string"],
+      "related_source_ids": ["string"]
+    },
+
+    "traceability": {
+      "important_quotes_or_passages": [
+        {
+          "quote": "string",
+          "page_or_location": "string",
+          "why_it_matters": "string"
+        }
+      ],
+      "extractive_notes": ["string"],
+      "confidence": "low|medium|high",
+      "needs_human_review": "boolean"
+    }
+  }
+}
+
+
+
+{
+  "dashboard_groups": [
+    "research_foundations",
+    "pedagogy",
+    "assessment",
+    "technical_build",
+    "examples",
+    "platforms"
+  ],
+  "source_contribution_types": [
+    "core_foundation",
+    "supporting_evidence",
+    "technical_reference",
+    "example_bank",
+    "assessment_reference",
+    "pedagogy_reference"
+  ],
+  "recommended_agent_modules": [
+    "planner",
+    "world_designer",
+    "scenario_writer",
+    "assessment_designer",
+    "technical_builder",
+    "teacher_coach",
+    "student_guide"
+  ],
+  "experience_types": [
+    "virtual_world_game",
+    "role_play_simulation",
+    "branching_scenario",
+    "interactive_storyworld",
+    "virtual_field_trip",
+    "virtual_lab",
+    "collaborative_build",
+    "teacher_designed_world",
+    "student_built_world"
+  ]
+}
+
+You want three outputs, not one:
+
+1. manifest.json
+   The master structured knowledge layer.
+
+2. dashboard_index.json
+   A lighter file for browsing/filtering sources quickly.
+
+3. ssot_seed_map.json
+   A file that maps source IDs to the SSOT documents they should feed.
+
+Sample
+
+{
+  "id": "src_001",
+  "title": "Assessment in Virtual Learning Spaces",
+  "short_title": "Assessment in Virtual Spaces",
+  "source_file_name": "(PDF)_Assessment_in_Virtual_Learning_Spaces_-_ResearchGate.txt",
+  "source_file_path": "./sources/(PDF)_Assessment_in_Virtual_Learning_Spaces_-_ResearchGate.txt",
+  "source_format": "txt",
+  "source_type": "chapter",
+  "authors": ["Geoffrey Crisp"],
+  "year": "2011",
+  "publisher_or_journal": "Physical and Virtual Learning Spaces in Higher Education",
+  "doi_or_url": "10.4018/978-1-60960-114-0.ch013",
+  "citation_text": "Crisp, G. (2011). Assessment in Virtual Learning Spaces.",
+
+  "high_level_relevance": {
+    "overall_relevance_score": "5",
+    "why_relevant": "Foundational for aligning virtual learning activities with assessment design.",
+    "recommended_for_dashboard": true,
+    "recommended_for_agent_training": true,
+    "recommended_for_ssot_generation": true
+  },
+
+  "knowledge_domains": [
+    "assessment",
+    "evidence_centered_design",
+    "stealth_assessment",
+    "virtual_worlds",
+    "simulation",
+    "role_play",
+    "serious_games",
+    "instructional_design",
+    "feedback"
+  ],
+
+  "instructional_use_profile": {
+    "best_for_grade_bands": ["6-8", "9-12", "higher_ed", "teacher_pd"],
+    "best_for_subjects": ["science", "social_studies", "ELA", "cross_curricular"],
+    "best_for_experience_types": [
+      "virtual_world_game",
+      "role_play_simulation",
+      "virtual_lab",
+      "interactive_storyworld"
+    ],
+    "supports_instructional_standards_alignment": true,
+    "supports_assessment_design": true,
+    "supports_teacher_planning": true,
+    "supports_student_authoring": false
+  },
+
+  "pedagogical_extraction": {
+    "teacher_role_prototypes": ["facilitator"],
+    "student_role_patterns": ["explorer", "problem_solver", "performer", "collaborator"],
+    "pedagogical_strategies": [
+      "experiential_learning",
+      "problem_based_learning",
+      "collaborative_learning"
+    ],
+    "learning_characteristics": [
+      "authenticity",
+      "real_world_problem_solving",
+      "collaboration"
+    ],
+    "pedagogical_warnings": [
+      "Avoid assessment formats that resemble traditional isolated recall tasks when learning is collaborative and immersive."
+    ],
+    "implementation_notes": [
+      "Assessment should be embedded into the same kind of environment in which learning occurs."
+    ]
+  },
+
+  "assessment_extraction": {
+    "assessment_models": [
+      "formative",
+      "summative",
+      "integrative",
+      "embedded",
+      "evidence_centered_design",
+      "stealth_assessment"
+    ],
+    "evidence_capture_types": [
+      "path_taken",
+      "decision_points",
+      "artifact_creation",
+      "performance_outcome",
+      "reflection"
+    ],
+    "competencies_measured": [
+      "problem_solving",
+      "decision_making",
+      "strategic_reasoning",
+      "collaboration"
+    ],
+    "feedback_modes": [
+      "real_time",
+      "embedded",
+      "post_activity_summary"
+    ],
+    "assessment_notes": [
+      "Strong case for unobtrusive evidence collection during immersive activity."
+    ],
+    "assessment_design_value": "High"
+  },
+
+  "technical_extraction": {
+    "platforms_mentioned": ["OpenSim", "Second_Life", "LMS_based"],
+    "technical_topics": [
+      "avatar_use",
+      "object_interaction",
+      "world_architecture"
+    ],
+    "technical_difficulty": "medium",
+    "teacher_dependency_on_technical_support": "high",
+    "student_building_possible": true,
+    "technical_notes": [
+      "Technical embedding of assessment may require tools that reduce scripting burden."
+    ]
+  },
+
+  "ssot_mapping": {
+    "candidate_ssot_docs": [
+      "vw_assessment_engine_ssot",
+      "vw_lesson_design_ssot",
+      "vw_role_play_generator_ssot",
+      "vw_storyworld_generator_ssot"
+    ],
+    "priority_ssot_targets": [
+      "vw_assessment_engine_ssot",
+      "vw_lesson_design_ssot"
+    ],
+    "source_contribution_type": [
+      "core_foundation",
+      "assessment_reference"
+    ],
+    "recommended_agent_modules": [
+      "planner",
+      "assessment_designer",
+      "teacher_coach"
+    ]
+  },
+
+  "dashboard_fields": {
+    "dashboard_group": "assessment",
+    "dashboard_tags": [
+      "assessment",
+      "virtual-worlds",
+      "stealth",
+      "ecd",
+      "role-play"
+    ],
+    "one_sentence_value": "Explains how assessment must shift when learning happens in immersive, collaborative environments.",
+    "three_key_takeaways": [
+      "Assessment should match the learning environment.",
+      "Stealth assessment supports continuous evidence capture.",
+      "Role-play and simulation require performance-based evaluation."
+    ],
+    "best_entry_points": [
+      "assessment alignment",
+      "stealth assessment",
+      "role-play evaluation"
+    ],
+    "related_source_ids": []
+  },
+
+  "traceability": {
+    "important_quotes_or_passages": [],
+    "extractive_notes": [],
+    "confidence": "high",
+    "needs_human_review": false
+  }
+}
