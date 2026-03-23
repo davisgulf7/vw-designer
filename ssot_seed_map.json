@@ -1,0 +1,4875 @@
+{
+  "project_id": "vw_instruction_agent",
+  "source_to_ssot_map": [
+    {
+      "id": "src_001",
+      "title": "(PDF) Assessment in Virtual Learning Spaces - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/(PDF)_Assessment_in_Virtual_Learning_Spaces_-_ResearchGate.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_standards_alignment_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_standards_alignment_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_002",
+      "title": "(PDF) Stealth Assessment - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/(PDF)_Stealth_Assessment_-_ResearchGate.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_003",
+      "title": "(PDF) Teaching prototypes and pedagogical strategies in integrating Open Sim\u2010based virtual worlds in K\u201012: Insights from perspectives and practices of teachers and students - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/(PDF)_Teaching_prototypes_and_pedagogical_strategies_in_integrating_Open_Sim\u2010based_virtual_worlds_in.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_004",
+      "title": "01. Basic Building \u2013 AvaCon, Inc.",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/01._Basic_Building_\u2013_AvaCon,_Inc..md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_005",
+      "title": "100 Project-Based Learning Ideas | Unrulr",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/100_Project-Based_Learning_Ideas_Unrulr.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_006",
+      "title": "10 Interactive Science Simulations - We Are Teachers",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/10_Interactive_Science_Simulations_-_We_Are_Teachers.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_007",
+      "title": "10 Project-Based Learning (PBL) Examples",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/10_Project-Based_Learning_(PBL)_Examples.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_standards_alignment_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_standards_alignment_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_008",
+      "title": "10 Top Help Desk and IT Asset Management Software for K-12 - StatusGator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/10_Top_Help_Desk_and_IT_Asset_Management_Software_for_K-12_-_StatusGator.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_009",
+      "title": "10 Virtual Classroom Management Strategies for Online Teaching - HMH",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/10_Virtual_Classroom_Management_Strategies_for_Online_Teaching_-_HMH.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_010",
+      "title": "10 Virtual Classroom Rules and Expectations to Practice - Livestorm",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/10_Virtual_Classroom_Rules_and_Expectations_to_Practice_-_Livestorm.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_011",
+      "title": "11 Steps to Creating a Minecraft Lesson - Teacher Tech with Alice Keeler",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/11_Steps_to_Creating_a_Minecraft_Lesson_-_Teacher_Tech_with_Alice_Keeler.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_012",
+      "title": "15 Superb STEM Building Challenges for Kids - Artsy Craftsy Mom",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/15_Superb_STEM_Building_Challenges_for_Kids_-_Artsy_Craftsy_Mom.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_013",
+      "title": "23. Scripting - AvaCon, Inc.",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/23._Scripting_-_AvaCon,_Inc..md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_014",
+      "title": "25 Digital Lesson Plans You Can Use Right Now - WeVideo",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/25_Digital_Lesson_Plans_You_Can_Use_Right_Now_-_WeVideo.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_015",
+      "title": "3 Keys to Successful Virtual Learning for K\u20135",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/3_Keys_to_Successful_Virtual_Learning_for_K\u20135.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_016",
+      "title": "4.4 Integrating with your LMS Using LTI 1.3 - Runestone Academy",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/4.4_Integrating_with_your_LMS_Using_LTI_1.3_-_Runestone_Academy.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_017",
+      "title": "4 STEM Building Challenges for Kids Using Modular Blocks - EverBlock Systems",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/4_STEM_Building_Challenges_for_Kids_Using_Modular_Blocks_-_EverBlock_Systems.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_018",
+      "title": "4 Ways Educators Can Lean into Student-Led Learning",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/4_Ways_Educators_Can_Lean_into_Student-Led_Learning.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_019",
+      "title": "6 Steps to Make The Most of Virtual Learning in K-12 | Education World",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/6_Steps_to_Make_The_Most_of_Virtual_Learning_in_K-12_Education_World.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_020",
+      "title": "6 Steps to Protect Student Data Privacy - Edutopia",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/6_Steps_to_Protect_Student_Data_Privacy_-_Edutopia.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_021",
+      "title": "9 Strategies to Promote Collaborative Online Learning - the University of South Florida",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/9_Strategies_to_Promote_Collaborative_Online_Learning_-_the_University_of_South_Florida.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_022",
+      "title": "9 tips for effective student-led conferences - Teach. Learn. Grow. - NWEA",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/9_tips_for_effective_student-led_conferences_-_Teach._Learn._Grow._-_NWEA.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_023",
+      "title": "AI-Powered Gamified Scaffolding: Transforming Learning in Virtual Learning Environment",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/AI-Powered_Gamified_Scaffolding_Transforming_Learning_in_Virtual_Learning_Environment.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_024",
+      "title": "A Commitment to Data Security for K-12 Schools: Inside Look - FACTS Management",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/A_Commitment_to_Data_Security_for_K-12_Schools_Inside_Look_-_FACTS_Management.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_025",
+      "title": "A Rubric for Peer Evaluation of Multi-User Virtual Environments for Education and Training",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/A_Rubric_for_Peer_Evaluation_of_Multi-User_Virtual_Environments_for_Education_and_Training.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_026",
+      "title": "A Virtual Environment for People Who Are Blind \u2013 A Usability Study - PMC",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/A_Virtual_Environment_for_People_Who_Are_Blind_\u2013_A_Usability_Study_-_PMC.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_027",
+      "title": "A \u201cStealthy\u201d Approach to Learning and Assessment - MiddleWeb",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/A_\u201cStealthy\u201d_Approach_to_Learning_and_Assessment_-_MiddleWeb.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_028",
+      "title": "About - jokaydiaGRID",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/About_-_jokaydiaGRID.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_029",
+      "title": "About Virtual Worlds - Weill Cornell Medicine - Qatar",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/About_Virtual_Worlds_-_Weill_Cornell_Medicine_-_Qatar.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_030",
+      "title": "Academic Research \u2013 Virtual Ability, Inc.",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Academic_Research_\u2013_Virtual_Ability,_Inc..md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_031",
+      "title": "Accessibility Plus - Minecraft Mods - CurseForge",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Accessibility_Plus_-_Minecraft_Mods_-_CurseForge.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_032",
+      "title": "Accessibility for Deaf and Hard of Hearing (DHH) - DO-IT - University of Washington",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Accessibility_for_Deaf_and_Hard_of_Hearing_(DHH)_-_DO-IT_-_University_of_Washington.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_033",
+      "title": "Accessible Meetings and Events for Neurodiverse Individuals - American Bar Association",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Accessible_Meetings_and_Events_for_Neurodiverse_Individuals_-_American_Bar_Association.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_034",
+      "title": "Adding Non-Player Characters (NPCs) - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Adding_Non-Player_Characters_(NPCs)_-_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_035",
+      "title": "Addressing the Top Challenges K-12 Virtual Academies Face - Class Technologies",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Addressing_the_Top_Challenges_K-12_Virtual_Academies_Face_-_Class_Technologies.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_036",
+      "title": "Advancing Ecosystems Science Education via Situated Collaborative Learning in Multi-User Virtual Environments",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Advancing_Ecosystems_Science_Education_via_Situated_Collaborative_Learning_in_Multi-User_Virtual_Env.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_037",
+      "title": "Audio Navigation - Minecraft Mods - CurseForge",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Audio_Navigation_-_Minecraft_Mods_-_CurseForge.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_038",
+      "title": "Best Practices for K-12 Virtual Instruction: A District Leader's Guide to Livestreamed Teaching - Proximity Learning",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Best_Practices_for_K-12_Virtual_Instruction_A_District_Leader's_Guide_to_Livestreamed_Teaching_-_Pro.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_assessment_engine_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_039",
+      "title": "Best Practices for K-12 Virtual Instruction: A District Leader's Guide to Livestreamed Teaching - Proximity Learning",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Best_Practices_for_K-12_Virtual_Instruction_A_District_Leader's_Guide_to_Livestreamed_Teaching_-_Pro_1.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_lesson_design_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_040",
+      "title": "Best Practices for Student-Led Discussions | Harmonize Blog",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Best_Practices_for_Student-Led_Discussions_Harmonize_Blog.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_041",
+      "title": "Best practices for secure identity and access management in K\u201312 schools - Clever",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Best_practices_for_secure_identity_and_access_management_in_K\u201312_schools_-_Clever.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_042",
+      "title": "Blind Accessibility - Minecraft Access v1.9.0-beta.1 for NeoForge ...",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Blind_Accessibility_-_Minecraft_Access_v1.9.0-beta.1_for_NeoForge_....md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_043",
+      "title": "Blind Accessibility - Minecraft Mods - CurseForge",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Blind_Accessibility_-_Minecraft_Mods_-_CurseForge.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_044",
+      "title": "Bolstering the quality and integrity of online collaborative university- level courses via an Open Sim standalone server in conjunction with Sloodle - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Bolstering_the_quality_and_integrity_of_online_collaborative_university-_level_courses_via_an_Open_S.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_045",
+      "title": "Build SF rubric for Assessing Design in 3-D Modeling Software - Edutopia",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Build_SF_rubric_for_Assessing_Design_in_3-D_Modeling_Software_-_Edutopia.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_046",
+      "title": "Building Trusted Learning Environments (TLE) in K-12 Schools: Best Practices for Data Privacy and Security - EDspaces",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Building_Trusted_Learning_Environments_(TLE)_in_K-12_Schools_Best_Practices_for_Data_Privacy_and_Sec.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_047",
+      "title": "Building a More Student-Led Classroom - Novak Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Building_a_More_Student-Led_Classroom_-_Novak_Education.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_048",
+      "title": "Chapter Two: Theories in Practice \u2013 Designing Blended & Online Learning with Impact",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Chapter_Two_Theories_in_Practice_\u2013_Designing_Blended_&_Online_Learning_with_Impact.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_049",
+      "title": "Children's Online Privacy Protection Rule: A Six-Step Compliance Plan for Your Business",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Children's_Online_Privacy_Protection_Rule_A_Six-Step_Compliance_Plan_for_Your_Business.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_050",
+      "title": "Classroom Management Best Practices For K-12",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Classroom_Management_Best_Practices_For_K-12.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_051",
+      "title": "Classroom Management Tools & Resources - Google for Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Classroom_Management_Tools_&_Resources_-_Google_for_Education.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_052",
+      "title": "Classroom Management in the Tech-Equipped Classroom - Edutopia",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Classroom_Management_in_the_Tech-Equipped_Classroom_-_Edutopia.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_053",
+      "title": "Clever",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Clever.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_054",
+      "title": "Co-Creating the Classroom: Collaborative Ground Rules for Engaged Learning",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Co-Creating_the_Classroom_Collaborative_Ground_Rules_for_Engaged_Learning.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_055",
+      "title": "Configuring LTI Integration with Moodle (Sandbox) - BetterExaminations Documentation",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Configuring_LTI_Integration_with_Moodle_(Sandbox)_-_BetterExaminations_Documentation.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_056",
+      "title": "Connecting Classroom Mode for Minecraft",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Connecting_Classroom_Mode_for_Minecraft.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_057",
+      "title": "Connectivity Issues - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Connectivity_Issues_-_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_058",
+      "title": "Constructing in Minecraft in Primary School as a Boundary-Crossing Practice - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Constructing_in_Minecraft_in_Primary_School_as_a_Boundary-Crossing_Practice_-_MDPI.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_059",
+      "title": "Constructionist Gaming: Understanding the Benefits of Making Games for Learning - PMC",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Constructionist_Gaming_Understanding_the_Benefits_of_Making_Games_for_Learning_-_PMC.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_060",
+      "title": "Constructivism (philosophy of education) - Wikipedia",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Constructivism_(philosophy_of_education)_-_Wikipedia.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_061",
+      "title": "Content Moderation for Virtual Reality - Checkstep",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Content_Moderation_for_Virtual_Reality_-_Checkstep.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_062",
+      "title": "Crafting STEM Lessons: A Systematic Literature Review on the Use of Minecraft in Education (2015-2024)",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Crafting_STEM_Lessons_A_Systematic_Literature_Review_on_the_Use_of_Minecraft_in_Education_(2015-2024.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_063",
+      "title": "Creating Virtual Reality Environments for Teaching - CITLS \u00b7 Lafayette College",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Creating_Virtual_Reality_Environments_for_Teaching_-_CITLS_\u00b7_Lafayette_College.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_064",
+      "title": "Creating a Virtual World for Mathematics - ERIC",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Creating_a_Virtual_World_for_Mathematics_-_ERIC.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_065",
+      "title": "Data Privacy in Virtual Classrooms: What Every Educator Needs to Know - Digital Samba",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Data_Privacy_in_Virtual_Classrooms_What_Every_Educator_Needs_to_Know_-_Digital_Samba.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_066",
+      "title": "Database Scavenger Hunt | Community of Online Research Assignments",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Database_Scavenger_Hunt_Community_of_Online_Research_Assignments.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_067",
+      "title": "Deploy the Microsoft 365 LTI\u00ae app in Moodle - Microsoft Learn",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Deploy_the_Microsoft_365_LTI\u00ae_app_in_Moodle_-_Microsoft_Learn.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_068",
+      "title": "Design Principles for Creating Educational Virtual Worlds | Request PDF - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Design_Principles_for_Creating_Educational_Virtual_Worlds_Request_PDF_-_ResearchGate.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_069",
+      "title": "Designing Minecraft Spaces \u2013 TCEA TechNotes Blog",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Designing_Minecraft_Spaces_\u2013_TCEA_TechNotes_Blog.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_standards_alignment_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_standards_alignment_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_070",
+      "title": "Digital Asset Management for Schools: A Practical Guide for K\u201312 - LocknCharge",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Asset_Management_for_Schools_A_Practical_Guide_for_K\u201312_-_LocknCharge.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_071",
+      "title": "Digital Asset Management for Schools: The Complete Guide to Organizing Educational Content",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Asset_Management_for_Schools_The_Complete_Guide_to_Organizing_Educational_Content.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_072",
+      "title": "Digital Citizenship Resources for the Classroom - Virginia Ed Strategies",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Citizenship_Resources_for_the_Classroom_-_Virginia_Ed_Strategies.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_073",
+      "title": "Digital Citizenship in K-12 Schools - Vector Solutions",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Citizenship_in_K-12_Schools_-_Vector_Solutions.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_074",
+      "title": "Digital Scavenger Hunt Ideas for Classrooms: Transform Learning with Interactive Activities",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Scavenger_Hunt_Ideas_for_Classrooms_Transform_Learning_with_Interactive_Activities.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_075",
+      "title": "Digital Simulations in STEM Education: Insights from Recent Empirical Studies, a Systematic Review - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Simulations_in_STEM_Education_Insights_from_Recent_Empirical_Studies,_a_Systematic_Review_-_.md",
+      "candidate_ssot_docs": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_076",
+      "title": "Digital Storytelling: Supporting Digital Literacy in Grades 4 - 12 - SciSpace",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Storytelling_Supporting_Digital_Literacy_in_Grades_4_-_12_-_SciSpace.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_077",
+      "title": "Digital Storytelling in the Classroom - Eduteka",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Storytelling_in_the_Classroom_-_Eduteka.md",
+      "candidate_ssot_docs": [
+        "vw_standards_alignment_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_standards_alignment_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "scenario_writer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_078",
+      "title": "Digital Storytelling \u2013 K-12 Virtual Worlds",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Digital_Storytelling_\u2013_K-12_Virtual_Worlds.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_079",
+      "title": "Disrupting the \u201cempathy machine\u201d: The power and perils of virtual reality in addressing social issues - PMC",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Disrupting_the_\u201cempathy_machine\u201d_The_power_and_perils_of_virtual_reality_in_addressing_social_issues.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_080",
+      "title": "DocuSign for K-12 Education: COPPA (Children's Online Privacy Protection Act) compliance",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/DocuSign_for_K-12_Education_COPPA_(Children's_Online_Privacy_Protection_Act)_compliance.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_081",
+      "title": "Download Project Based Learning Rubrics | PBLWorks",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Download_Project_Based_Learning_Rubrics_PBLWorks.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_082",
+      "title": "Effects of game-based learning in an OpenSim-supported virtual environment on mathematical performance | Request PDF - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Effects_of_game-based_learning_in_an_OpenSim-supported_virtual_environment_on_mathematical_performan.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_083",
+      "title": "Egypt Toybox Lesson 2 of 5 | Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Egypt_Toybox_Lesson_2_of_5_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_084",
+      "title": "Evaluation Rubrics a Valuable Tool for Assessing eLearning - Learning Guild",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Evaluation_Rubrics_a_Valuable_Tool_for_Assessing_eLearning_-_Learning_Guild.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_085",
+      "title": "Examples of Lesson Plans to Meet NGSS and Common Core Challenges in Earth Science Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Examples_of_Lesson_Plans_to_Meet_NGSS_and_Common_Core_Challenges_in_Earth_Science_Education.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_standards_alignment_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_086",
+      "title": "Exploring the Impact of Minecraft-Based Projects on STEM and SDG Integration in Education: A Case Study - RSIS International",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Exploring_the_Impact_of_Minecraft-Based_Projects_on_STEM_and_SDG_Integration_in_Education_A_Case_Stu.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_087",
+      "title": "FAQ: IT Admin Guide - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/FAQ_IT_Admin_Guide_-_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_088",
+      "title": "FAQ: IT Admin Guide - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/FAQ_IT_Admin_Guide_-_Minecraft_Education_1.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_089",
+      "title": "FERPA\u2014ArcGIS Trust Center | Documentation",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/FERPA\u2014ArcGIS_Trust_Center_Documentation.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_090",
+      "title": "FGMV-03 Guidelines to assess inclusion and accessibility in ... - ITU",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/FGMV-03_Guidelines_to_assess_inclusion_and_accessibility_in_..._-_ITU.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_091",
+      "title": "Five Strategies for Behavior Management in a Virtual Classroom | Literacy Minnesota",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Five_Strategies_for_Behavior_Management_in_a_Virtual_Classroom_Literacy_Minnesota.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_092",
+      "title": "For Clever Admins: How to set up Clever LMS Connect",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/For_Clever_Admins_How_to_set_up_Clever_LMS_Connect.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_093",
+      "title": "Free Lessons for Language Arts: Writing, Literature, and Creativity - Education World",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Free_Lessons_for_Language_Arts_Writing,_Literature,_and_Creativity_-_Education_World.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_094",
+      "title": "Free STEM Lesson Plans for K-12 Teachers - ORISE",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Free_STEM_Lesson_Plans_for_K-12_Teachers_-_ORISE.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_095",
+      "title": "Free STEM Lesson Plans for K-12 Teachers - ORISE",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Free_STEM_Lesson_Plans_for_K-12_Teachers_-_ORISE_1.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_096",
+      "title": "Frequently Asked Questions - Kitely",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Frequently_Asked_Questions_-_Kitely.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_097",
+      "title": "From AI to the future of education, discover the key highlights of MoodleMoot Global 2024",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/From_AI_to_the_future_of_education,_discover_the_key_highlights_of_MoodleMoot_Global_2024.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_098",
+      "title": "Geography Lesson Plan Templates & Activities for Grades K-12 - Hhsrobinson",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Geography_Lesson_Plan_Templates_&_Activities_for_Grades_K-12_-_Hhsrobinson.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_standards_alignment_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_099",
+      "title": "Get Started with Classroom Mode - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Get_Started_with_Classroom_Mode_-_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_100",
+      "title": "Getting Real World Terrains into OpenSim: A Tutorial by Brian A. White",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Getting_Real_World_Terrains_into_OpenSim_A_Tutorial_by_Brian_A._White.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_101",
+      "title": "Getting Started with Command Blocks | Microsoft Learn",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Getting_Started_with_Command_Blocks_Microsoft_Learn.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_102",
+      "title": "Google Docs: Live Editing with Multiple Users",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Google_Docs_Live_Editing_with_Multiple_Users.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_103",
+      "title": "Guide to Redstone | Microsoft Learn",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Guide_to_Redstone_Microsoft_Learn.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_104",
+      "title": "Guidelines on how to build VR learning environment",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Guidelines_on_how_to_build_VR_learning_environment.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_105",
+      "title": "HTML on a Prim Use Cases - Second Life Wiki",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/HTML_on_a_Prim_Use_Cases_-_Second_Life_Wiki.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_106",
+      "title": "History Blocks | Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/History_Blocks_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_107",
+      "title": "Hosting Accessible Virtual Meetings - American Anthropological Association",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Hosting_Accessible_Virtual_Meetings_-_American_Anthropological_Association.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_108",
+      "title": "How Minecraft Education Revolutionizes Classroom Learning - Tynker",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/How_Minecraft_Education_Revolutionizes_Classroom_Learning_-_Tynker.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_lesson_design_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_109",
+      "title": "How To Get Custom Skins In Minecraft Education Edition! - Tutorial",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/How_To_Get_Custom_Skins_In_Minecraft_Education_Edition!_-_Tutorial.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_110",
+      "title": "How to Create a Moodle Integration - Edlink",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/How_to_Create_a_Moodle_Integration_-_Edlink.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_111",
+      "title": "How to Develop Virtual Reality: A Comprehensive Guide to Building Immersive Worlds",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/How_to_Develop_Virtual_Reality_A_Comprehensive_Guide_to_Building_Immersive_Worlds.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_112",
+      "title": "How to Incorporate Student-Led Learning Into Your Classroom - Mission.io",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/How_to_Incorporate_Student-Led_Learning_Into_Your_Classroom_-_Mission.io.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_113",
+      "title": "How to comply with COPPA \u2014 7 steps - Infosec",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/How_to_comply_with_COPPA_\u2014_7_steps_-_Infosec.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_114",
+      "title": "How to get Custom Skins - MINECRAFT EDUCATION EDITION",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/How_to_get_Custom_Skins_-_MINECRAFT_EDUCATION_EDITION.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_115",
+      "title": "How to use Minecraft Education in your classroom - eSchool News",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/How_to_use_Minecraft_Education_in_your_classroom_-_eSchool_News.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_116",
+      "title": "Hypergrid Security - OpenSimulator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Hypergrid_Security_-_OpenSimulator.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_117",
+      "title": "IT Asset Management Software for K12 School Districts - VIZOR",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/IT_Asset_Management_Software_for_K12_School_Districts_-_VIZOR.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_118",
+      "title": "IT Asset Management in Schools: Why It Matters for Education - Teqtivity",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/IT_Asset_Management_in_Schools_Why_It_Matters_for_Education_-_Teqtivity.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_119",
+      "title": "Immersive Classrooms: A Guide for Schools - ClassVR",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Immersive_Classrooms_A_Guide_for_Schools_-_ClassVR.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_120",
+      "title": "Immersive HyperDocs in Minecraft Education Edition | Learning as I go",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Immersive_HyperDocs_in_Minecraft_Education_Edition_Learning_as_I_go.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_121",
+      "title": "Immersive Learning as a Catalyst for Redesigning Instructional Theory and Design",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Immersive_Learning_as_a_Catalyst_for_Redesigning_Instructional_Theory_and_Design.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_122",
+      "title": "Immersive VR and Education: Embodied Design Principles That Include Gesture and Hand Controls - Frontiers",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Immersive_VR_and_Education_Embodied_Design_Principles_That_Include_Gesture_and_Hand_Controls_-_Front.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_123",
+      "title": "Increasing ecological understanding with virtual worlds and augmented reality | NSF",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Increasing_ecological_understanding_with_virtual_worlds_and_augmented_reality_NSF.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_124",
+      "title": "Infographic: Digital citizenship for students - CYPHER Learning",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Infographic_Digital_citizenship_for_students_-_CYPHER_Learning.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_125",
+      "title": "Instruction and Practice | Virginia Department of Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Instruction_and_Practice_Virginia_Department_of_Education.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_126",
+      "title": "Integrating Information Literacy Activities in Class Projects - University of Michigan",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Integrating_Information_Literacy_Activities_in_Class_Projects_-_University_of_Michigan.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_127",
+      "title": "Interaction Design Strategies for Socio-Spatial Embodiment in Virtual World Learning - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Interaction_Design_Strategies_for_Socio-Spatial_Embodiment_in_Virtual_World_Learning_-_MDPI.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_128",
+      "title": "Interactive STEM eLearning for K-12: Best Practices - Mitr Learning & Media",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Interactive_STEM_eLearning_for_K-12_Best_Practices_-_Mitr_Learning_&_Media.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_129",
+      "title": "Interactive virtual simulations for science - PraxiLabs",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Interactive_virtual_simulations_for_science_-_PraxiLabs.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_130",
+      "title": "Introducing Organizations (Virtual Grids) \u2013 Kitely Blog",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Introducing_Organizations_(Virtual_Grids)_\u2013_Kitely_Blog.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_131",
+      "title": "Introduction to XR Accessibility - TetraLogical",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Introduction_to_XR_Accessibility_-_TetraLogical.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_132",
+      "title": "K-12 LMS Evaluation Guide - D2L",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/K-12_LMS_Evaluation_Guide_-_D2L.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_133",
+      "title": "K12 Students Are Launching into an AI-Powered Future | Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/K12_Students_Are_Launching_into_an_AI-Powered_Future_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_134",
+      "title": "Kitely Blog \u2013 Page 3",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Kitely_Blog_\u2013_Page_3.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_135",
+      "title": "LTI Moodle to Moodle - MoodleDocs",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/LTI_Moodle_to_Moodle_-_MoodleDocs.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_136",
+      "title": "LTI Provider - Moodle Plugins directory",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/LTI_Provider_-_Moodle_Plugins_directory.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_137",
+      "title": "Learn to Play: Programming NPCs - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Learn_to_Play_Programming_NPCs_-_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_138",
+      "title": "Learning Empathy Through Virtual Reality: Multiple Strategies for Training Empathy-Related Abilities Using Body Ownership Illusions in Embodied Virtual Reality - PMC",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Learning_Empathy_Through_Virtual_Reality_Multiple_Strategies_for_Training_Empathy-Related_Abilities_.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_139",
+      "title": "Learning Made in Second Life - Virtual Worlds Best Practices in Education Conference",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Learning_Made_in_Second_Life_-_Virtual_Worlds_Best_Practices_in_Education_Conference.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_140",
+      "title": "Learning in the Zone: A social constructivist framework for distance education in a 3-dimensional virtual world - SciSpace",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Learning_in_the_Zone_A_social_constructivist_framework_for_distance_education_in_a_3-dimensional_vir.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_141",
+      "title": "Learning with Minecraft - K12",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Learning_with_Minecraft_-_K12.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_142",
+      "title": "Lesson Plans & Activities | CEEE",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Lesson_Plans_&_Activities_CEEE.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_143",
+      "title": "Lessons for Minecraft Education | Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Lessons_for_Minecraft_Education_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_144",
+      "title": "Like Minecraft? Try these 7 engaging world builders, too - eSchool News",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Like_Minecraft_Try_these_7_engaging_world_builders,_too_-_eSchool_News.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_145",
+      "title": "Make Your Own CUSTOM Minecraft Texture Pack in Under 5 Minutes",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Make_Your_Own_CUSTOM_Minecraft_Texture_Pack_in_Under_5_Minutes.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_146",
+      "title": "Make a custom texture pack in minecraft - DIY.ORG",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Make_a_custom_texture_pack_in_minecraft_-_DIY.ORG.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_147",
+      "title": "Making video calling more accessible for neurodivergent people using Zoom - Shared Digital Guides",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Making_video_calling_more_accessible_for_neurodivergent_people_using_Zoom_-_Shared_Digital_Guides.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_148",
+      "title": "Maximizing Security In K-12 IT: Best Practices For Safeguarding Data | Coro Cybersecurity",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Maximizing_Security_In_K-12_IT_Best_Practices_For_Safeguarding_Data_Coro_Cybersecurity.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_149",
+      "title": "Minecraft Education Edition - EdTech Books",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Minecraft_Education_Edition_-_EdTech_Books.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_150",
+      "title": "Minecraft Education Edition: Adding Non-Playable Characters (NPCs)",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Minecraft_Education_Edition_Adding_Non-Playable_Characters_(NPCs).md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_151",
+      "title": "Minecraft Education: Get Minecraft for Your Classroom",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Minecraft_Education_Get_Minecraft_for_Your_Classroom.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_152",
+      "title": "Minecraft Education: Transforming How Kids Learn Through Play - Shapescape",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Minecraft_Education_Transforming_How_Kids_Learn_Through_Play_-_Shapescape.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_153",
+      "title": "Minecraft Education: Using NPCs",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Minecraft_Education_Using_NPCs.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_154",
+      "title": "Minecraft Education: Where Imagination Meets Coding - STEAM Ahead",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Minecraft_Education_Where_Imagination_Meets_Coding_-_STEAM_Ahead.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_155",
+      "title": "Minecraft in Education: Uses, Benefits, and Future in Classrooms - 21K School United States",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Minecraft_in_Education_Uses,_Benefits,_and_Future_in_Classrooms_-_21K_School_United_States.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_156",
+      "title": "Minecraft vs Minecraft EDU : r/k12sysadmin - Reddit",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Minecraft_vs_Minecraft_EDU_r_k12sysadmin_-_Reddit.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_157",
+      "title": "Mining for Education:",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Mining_for_Education.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_158",
+      "title": "Modeling Muscle Activities of Squat Motion using OpenSIM - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Modeling_Muscle_Activities_of_Squat_Motion_using_OpenSIM_-_ResearchGate.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_159",
+      "title": "Moodle Plugins directory: RESTful protocol",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Moodle_Plugins_directory_RESTful_protocol.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_160",
+      "title": "Moodle SSO Integration Guide - Developer Docs - Clever",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Moodle_SSO_Integration_Guide_-_Developer_Docs_-_Clever.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_161",
+      "title": "NIET Rubric Companion for Virtual Instruction",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/NIET_Rubric_Companion_for_Virtual_Instruction.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_standards_alignment_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_162",
+      "title": "Navigating COPPA Compliance: A Security-Focused Guide for K-12 and Libraries",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Navigating_COPPA_Compliance_A_Security-Focused_Guide_for_K-12_and_Libraries.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_163",
+      "title": "Navigating Our World | 8th Grade Lesson Plan - Kuraplan",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Navigating_Our_World_8th_Grade_Lesson_Plan_-_Kuraplan.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_standards_alignment_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_164",
+      "title": "Neuro-Inclusive Design: 8 Practical Tips for Digital Spaces - accessiBe",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Neuro-Inclusive_Design_8_Practical_Tips_for_Digital_Spaces_-_accessiBe.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_165",
+      "title": "Neurodiversity Accessibility Guidelines - L.E.A.D. Teaching School Hub",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Neurodiversity_Accessibility_Guidelines_-_L.E.A.D._Teaching_School_Hub.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_166",
+      "title": "New Study: Understanding the Impact of Minecraft in the Math Classroom",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/New_Study_Understanding_the_Impact_of_Minecraft_in_the_Math_Classroom.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_167",
+      "title": "OSSL Script Library - OpenSimulator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OSSL_Script_Library_-_OpenSimulator.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_168",
+      "title": "OSSL vs LSL - OpenSimulator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OSSL_vs_LSL_-_OpenSimulator.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_169",
+      "title": "OpenSim Creator Documentation",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OpenSim_Creator_Documentation.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_170",
+      "title": "OpenSim Documentation",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OpenSim_Documentation.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_171",
+      "title": "OpenSim Tutorial - What Is OpenSim Second Life? - Software Testing Help",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OpenSim_Tutorial_-_What_Is_OpenSim_Second_Life_-_Software_Testing_Help.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_172",
+      "title": "OpenSim vs Second Life vs Minecraft - Nalates' Things & Stuff",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OpenSim_vs_Second_Life_vs_Minecraft_-_Nalates'_Things_&_Stuff.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_173",
+      "title": "OpenSim vs Second Life vs Minecraft - Nalates' Things & Stuff",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OpenSim_vs_Second_Life_vs_Minecraft_-_Nalates'_Things_&_Stuff_1.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_174",
+      "title": "OpenSimulator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OpenSimulator.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_175",
+      "title": "OpenSimulator and the possibilities for Education - The Reflective Educator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OpenSimulator_and_the_possibilities_for_Education_-_The_Reflective_Educator.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_176",
+      "title": "OpenSimulator and the possibilities for Education | The Reflective ...",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/OpenSimulator_and_the_possibilities_for_Education_The_Reflective_....md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_177",
+      "title": "Open LMS WORK Managed Hosting Release Schedule",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Open_LMS_WORK_Managed_Hosting_Release_Schedule.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_178",
+      "title": "Optimization techniques for non densely occluded environments (open worlds) - Reddit",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Optimization_techniques_for_non_densely_occluded_environments_(open_worlds)_-_Reddit.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_179",
+      "title": "Overview of OpenSim Workflows",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Overview_of_OpenSim_Workflows.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_180",
+      "title": "Pedagogical and Technical Frameworks for K-12 Virtual World Creation: A Comprehensive Guide to Modeling, Scripting, and Architectural Design",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Pedagogical_and_Technical_Frameworks_for_K-12_Virtual_World_Creation_A_Comprehensive_Guide_to_Modeli.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_lesson_design_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "teacher_coach",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_181",
+      "title": "Perspective: Narrative Storyliving in Virtual Reality Design - Frontiers",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Perspective_Narrative_Storyliving_in_Virtual_Reality_Design_-_Frontiers.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_182",
+      "title": "Primary School Students' Experiences using Minecraft Education during a National Project-Based Initiative: An Irish Study - PMC",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Primary_School_Students'_Experiences_using_Minecraft_Education_during_a_National_Project-Based_Initi.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_lesson_design_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_183",
+      "title": "Privacy Tips for Ed Tech Companies and Schools Conducting Remote Learning - Honigman",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Privacy_Tips_for_Ed_Tech_Companies_and_Schools_Conducting_Remote_Learning_-_Honigman.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_184",
+      "title": "Professional Learning in Virtual Classrooms - Edutopia",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Professional_Learning_in_Virtual_Classrooms_-_Edutopia.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_185",
+      "title": "Project-Based Learning (PBL) - Edutopia",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Project-Based_Learning_(PBL)_-_Edutopia.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_186",
+      "title": "Proof of concept for integrating Minecraft with Moodle LMS for the World Bank's EVOKE platform - GitHub",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Proof_of_concept_for_integrating_Minecraft_with_Moodle_LMS_for_the_World_Bank's_EVOKE_platform_-_Git.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_187",
+      "title": "Redstone Basics | Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Redstone_Basics_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_188",
+      "title": "Redstone Road | Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Redstone_Road_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_189",
+      "title": "Research Papers - OpenSimulator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Research_Papers_-_OpenSimulator.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_190",
+      "title": "Resources for Remote Learning - UCAR Center for Science Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Resources_for_Remote_Learning_-_UCAR_Center_for_Science_Education.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_191",
+      "title": "Resources for Virtual Instruction and Online Learning - National Council of Teachers of English - NCTE",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Resources_for_Virtual_Instruction_and_Online_Learning_-_National_Council_of_Teachers_of_English_-_NC.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_192",
+      "title": "Rethinking Inclusivity and Accessibility In A Virtual World - Tycoon Events",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Rethinking_Inclusivity_and_Accessibility_In_A_Virtual_World_-_Tycoon_Events.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_193",
+      "title": "Role Play and Simulations - Academic Technologies - University of Miami",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Role_Play_and_Simulations_-_Academic_Technologies_-_University_of_Miami.md",
+      "candidate_ssot_docs": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_194",
+      "title": "Rubric for 3d Model | TPT",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Rubric_for_3d_Model_TPT.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_195",
+      "title": "STANDARDS ALIGNMENT GUIDE - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/STANDARDS_ALIGNMENT_GUIDE_-_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_standards_alignment_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_standards_alignment_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_196",
+      "title": "STEM Teaching Resources: Homepage",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/STEM_Teaching_Resources_Homepage.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_197",
+      "title": "Scaffolding Content - Office of Curriculum, Assessment and Teaching Transformation - University at Buffalo",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Scaffolding_Content_-_Office_of_Curriculum,_Assessment_and_Teaching_Transformation_-_University_at_B.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_198",
+      "title": "Scaffolding Learning with Mixed Reality",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Scaffolding_Learning_with_Mixed_Reality.md",
+      "candidate_ssot_docs": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_199",
+      "title": "Scaffolding discovery learning in 3D virtual environments: Challenges and considerations for instructional design - Charles Sturt University Research Output",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Scaffolding_discovery_learning_in_3D_virtual_environments_Challenges_and_considerations_for_instruct.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_200",
+      "title": "Science Activity Design - PhET",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Science_Activity_Design_-_PhET.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_201",
+      "title": "Scripting - OpenSim",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Scripting_-_OpenSim.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_202",
+      "title": "Scripting Documentation - OpenSimulator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Scripting_Documentation_-_OpenSimulator.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_203",
+      "title": "Scripting environments like Matlab, Python and the OpenSim GUI shell allow users to interact with the classes of the OpenSim API (see",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Scripting_environments_like_Matlab,_Python_and_the_OpenSim_GUI_shell_allow_users_to_interact_with_th.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot",
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_204",
+      "title": "Second Life\u00ae \u2013 An Opportunity for Virtual Support and Education - Amputee Coalition",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Second_Life\u00ae_\u2013_An_Opportunity_for_Virtual_Support_and_Education_-_Amputee_Coalition.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_205",
+      "title": "Setting Up Your (Virtual) Classroom for Success",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Setting_Up_Your_(Virtual)_Classroom_for_Success.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_206",
+      "title": "Situated Learning: A Theoretical Base for Online Learning - UPV",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Situated_Learning_A_Theoretical_Base_for_Online_Learning_-_UPV.md",
+      "candidate_ssot_docs": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_207",
+      "title": "Situated Learning in Virtual Worlds and Immersive Simulations ...",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Situated_Learning_in_Virtual_Worlds_and_Immersive_Simulations_....md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_role_play_generator_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_208",
+      "title": "Situated Learning in Virtual Worlds and Immersive Simulations | Request PDF - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Situated_Learning_in_Virtual_Worlds_and_Immersive_Simulations_Request_PDF_-_ResearchGate.md",
+      "candidate_ssot_docs": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_209",
+      "title": "Smart Learning in the 21st Century: Advancing Constructionism Across Three Digital Epochs - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Smart_Learning_in_the_21st_Century_Advancing_Constructionism_Across_Three_Digital_Epochs_-_MDPI.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_210",
+      "title": "Social Studies - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Social_Studies_-_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_211",
+      "title": "Storytelling in 3D: Bringing Narrative Learning to Life | Discovery ...",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Storytelling_in_3D_Bringing_Narrative_Learning_to_Life_Discovery_....md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_212",
+      "title": "Syncing test results with your Moodle Gradebook | Grasple Help Center",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Syncing_test_results_with_your_Moodle_Gradebook_Grasple_Help_Center.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_213",
+      "title": "Tailored Immersive Environments: Advancing Neurodivergent Support Through Virtual Reality - arXiv",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Tailored_Immersive_Environments_Advancing_Neurodivergent_Support_Through_Virtual_Reality_-_arXiv.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_214",
+      "title": "Teaching Building Information Modeling in the Metaverse\u2014An Approach Based on Quantitative and Qualitative Evaluation of the Students Perspective - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Teaching_Building_Information_Modeling_in_the_Metaverse\u2014An_Approach_Based_on_Quantitative_and_Qualit.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer"
+      ]
+    },
+    {
+      "id": "src_215",
+      "title": "Teaching Spatial Geometry in a Virtual World: Using Minecraft in Mathematics in Grade 5/6",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Teaching_Spatial_Geometry_in_a_Virtual_World_Using_Minecraft_in_Mathematics_in_Grade_5_6.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_216",
+      "title": "Technical Issues? How To Prevent And Help Learners Solve Them As An Online Instructor",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Technical_Issues_How_To_Prevent_And_Help_Learners_Solve_Them_As_An_Online_Instructor.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_217",
+      "title": "The Architecture of Immersion: A Comprehensive Framework for K-12 Learning Environments in Virtual Worlds",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/The_Architecture_of_Immersion_A_Comprehensive_Framework_for_K-12_Learning_Environments_in_Virtual_Wo.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_218",
+      "title": "The Architecture of Immersive Pedagogy: Designing Simulations and Narrative Experiences in K-12 Virtual Learning Environments",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/The_Architecture_of_Immersive_Pedagogy_Designing_Simulations_and_Narrative_Experiences_in_K-12_Virtu.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_role_play_generator_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "technical_builder",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_219",
+      "title": "The Benefits of Digital Asset Management for School Districts | Agile Education Marketing",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/The_Benefits_of_Digital_Asset_Management_for_School_Districts_Agile_Education_Marketing.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_220",
+      "title": "The Educational Benefits of Minecraft",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/The_Educational_Benefits_of_Minecraft.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_221",
+      "title": "The Latest From Minecraft EDU - Brave In The Attempt",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/The_Latest_From_Minecraft_EDU_-_Brave_In_The_Attempt.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_222",
+      "title": "The Rise of Shared Immersive Spaces: A New Era for Education and Training - ThingLink",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/The_Rise_of_Shared_Immersive_Spaces_A_New_Era_for_Education_and_Training_-_ThingLink.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_223",
+      "title": "The Synthesis of Immersive Virtual Environments and External Digital Ecosystems in K-12 Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/The_Synthesis_of_Immersive_Virtual_Environments_and_External_Digital_Ecosystems_in_K-12_Education.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder",
+        "teacher_coach",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_224",
+      "title": "The architecture of a learning environment based on Moodle ...",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/The_architecture_of_a_learning_environment_based_on_Moodle_....md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_225",
+      "title": "Theoretical and Practical Frameworks for Disability Support in Immersive Virtual Environments",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Theoretical_and_Practical_Frameworks_for_Disability_Support_in_Immersive_Virtual_Environments.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_platform_selection_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_226",
+      "title": "Tips for Finding the Right Minecraft Class for Your Child - BostonTechMom",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Tips_for_Finding_the_Right_Minecraft_Class_for_Your_Child_-_BostonTechMom.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_227",
+      "title": "Towards Sound Accessibility in Virtual Reality - Microsoft",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Towards_Sound_Accessibility_in_Virtual_Reality_-_Microsoft.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_228",
+      "title": "Transforming Education: Smart IT Asset Management for Schools & Colleges - IT Glue",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Transforming_Education_Smart_IT_Asset_Management_for_Schools_&_Colleges_-_IT_Glue.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_229",
+      "title": "Troubleshoot the Can't Connect to the Service Error - Minecraft Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Troubleshoot_the_Can't_Connect_to_the_Service_Error_-_Minecraft_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_230",
+      "title": "Troubleshooting and Digital Citizenship - Jared Tomlin's Professional Portfolio",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Troubleshooting_and_Digital_Citizenship_-_Jared_Tomlin's_Professional_Portfolio.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_231",
+      "title": "Twelve Tips for Teaching with Virtual Learning Platforms - PMC",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Twelve_Tips_for_Teaching_with_Virtual_Learning_Platforms_-_PMC.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_232",
+      "title": "UV Mapping Basics for 3D Product Design | Prepare Your Model for Texturing | Part 2 | #autodeskmaya",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/UV_Mapping_Basics_for_3D_Product_Design_Prepare_Your_Model_for_Texturing_Part_2_#autodeskmaya.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_233",
+      "title": "UV Mapping Tutorial II",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/UV_Mapping_Tutorial_II.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_234",
+      "title": "Ultimate Guide to Online Learning Problems and Solutions - Skolera",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Ultimate_Guide_to_Online_Learning_Problems_and_Solutions_-_Skolera.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_235",
+      "title": "Using Google Docs in the Secondary Classroom - Edutopia",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Using_Google_Docs_in_the_Secondary_Classroom_-_Edutopia.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner"
+      ]
+    },
+    {
+      "id": "src_236",
+      "title": "Using Minecraft Education Edition to Enhance 21st Century Skills in the College Classroom: A Mixed Methods Study - ScholarSpace",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Using_Minecraft_Education_Edition_to_Enhance_21st_Century_Skills_in_the_College_Classroom_A_Mixed_Me.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_237",
+      "title": "Using Redstone in Minecraft Education Edition: A Beginner's Guide - Alice Keeler",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Using_Redstone_in_Minecraft_Education_Edition_A_Beginner's_Guide_-_Alice_Keeler.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_238",
+      "title": "Using Redstone in Minecraft Education Edition: A Beginner's Guide - Alice Keeler",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Using_Redstone_in_Minecraft_Education_Edition_A_Beginner's_Guide_-_Alice_Keeler_1.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_239",
+      "title": "Using a Learning Management System in K-12: A comprehensive guide | SchoolAI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Using_a_Learning_Management_System_in_K-12_A_comprehensive_guide_SchoolAI.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "assessment_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_240",
+      "title": "Utilizing Virtual Worlds in Education: The Implications for Practice",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Utilizing_Virtual_Worlds_in_Education_The_Implications_for_Practice.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_241",
+      "title": "VR-supported instructional design strategies in K-12 settings - ResearchGate",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/VR-supported_instructional_design_strategies_in_K-12_settings_-_ResearchGate.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_242",
+      "title": "VR Cell: Unleashing the Power of Immersive Biology Lessons - XReady Lab",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/VR_Cell_Unleashing_the_Power_of_Immersive_Biology_Lessons_-_XReady_Lab.md",
+      "candidate_ssot_docs": [
+        "vw_standards_alignment_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_standards_alignment_ssot"
+      ],
+      "source_contribution_type": "example_bank",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_243",
+      "title": "VWBPE 2026 Call for Proposals | Virtual Worlds Best Practices in Education",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/VWBPE_2026_Call_for_Proposals_Virtual_Worlds_Best_Practices_in_Education.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_244",
+      "title": "View source for Media On A Prim - OpenSimulator",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/View_source_for_Media_On_A_Prim_-_OpenSimulator.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "technical_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "technical_builder"
+      ]
+    },
+    {
+      "id": "src_245",
+      "title": "Virtual Ability, Inc. \u2013 A Supportive Environment",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Ability,_Inc._\u2013_A_Supportive_Environment.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_246",
+      "title": "Virtual Ability - Second Life Wiki",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Ability_-_Second_Life_Wiki.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_247",
+      "title": "Virtual Ability | Second Life Destinations",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Ability_Second_Life_Destinations.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_248",
+      "title": "Virtual Classrooms, Real Impact: A Framework for Introducing Virtual Reality to K\u201312 STEM Learning Based on Best Practices - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Classrooms,_Real_Impact_A_Framework_for_Introducing_Virtual_Reality_to_K\u201312_STEM_Learning_Ba.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_249",
+      "title": "Virtual Reality Without Vision: A Haptic and Auditory White Cane to Navigate Complex Virtual Worlds - Microsoft",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Reality_Without_Vision_A_Haptic_and_Auditory_White_Cane_to_Navigate_Complex_Virtual_Worlds_-.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot",
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_250",
+      "title": "Virtual Scavenger Hunt: Ideas, Rules & Tools For Better Team Integration for 2026",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Scavenger_Hunt_Ideas,_Rules_&_Tools_For_Better_Team_Integration_for_2026.md",
+      "candidate_ssot_docs": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_lesson_design_ssot",
+        "vw_pedagogical_patterns_ssot",
+        "vw_teacher_prompting_ssot"
+      ],
+      "source_contribution_type": "pedagogy_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "teacher_coach"
+      ]
+    },
+    {
+      "id": "src_251",
+      "title": "Virtual World Locations \u2013 Virtual Ability, Inc.",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_World_Locations_\u2013_Virtual_Ability,_Inc..md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_252",
+      "title": "Virtual Worlds: A New Environment for Constructionist Learning ...",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Worlds_A_New_Environment_for_Constructionist_Learning_....md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_253",
+      "title": "Virtual Worlds: A New Environment for Constructionist Learning ...",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Worlds_A_New_Environment_for_Constructionist_Learning_..._1.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_254",
+      "title": "Virtual Worlds Best Practices in Education Conf. by Kevin Feenan - Indiegogo",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Worlds_Best_Practices_in_Education_Conf._by_Kevin_Feenan_-_Indiegogo.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_255",
+      "title": "Virtual Worlds Best Practices in Education | Insights March 19-21 ...",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Worlds_Best_Practices_in_Education_Insights_March_19-21_....md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_256",
+      "title": "Virtual Worlds for Learning in Metaverse: A Narrative Review - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Worlds_for_Learning_in_Metaverse_A_Narrative_Review_-_MDPI.md",
+      "candidate_ssot_docs": [],
+      "priority_ssot_targets": [],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer"
+      ]
+    },
+    {
+      "id": "src_257",
+      "title": "Virtual Worlds for Learning in Metaverse: A Narrative Review - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Worlds_for_Learning_in_Metaverse_A_Narrative_Review_-_MDPI_1.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_258",
+      "title": "Virtual Worlds for Learning in Metaverse: A Narrative Review - MDPI",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_Worlds_for_Learning_in_Metaverse_A_Narrative_Review_-_MDPI_2.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "core_foundation",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_259",
+      "title": "Virtual world language learning - Wikipedia",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Virtual_world_language_learning_-_Wikipedia.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_260",
+      "title": "Weaving Sound Information to Support Deaf and Hard of Hearing People's Real-time Sensemaking of Auditory Environments",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Weaving_Sound_Information_to_Support_Deaf_and_Hard_of_Hearing_People's_Real-time_Sensemaking_of_Audi.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_261",
+      "title": "Web Accessibility for Neurodivergent Users - 216digital",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Web_Accessibility_for_Neurodivergent_Users_-_216digital.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_262",
+      "title": "Which version to buy for kids? : r/Minecraft - Reddit",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/Which_version_to_buy_for_kids_r_Minecraft_-_Reddit.md",
+      "candidate_ssot_docs": [
+        "vw_platform_selection_ssot",
+        "vw_student_builder_workflow_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_student_builder_workflow_ssot",
+        "vw_platform_selection_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer"
+      ]
+    },
+    {
+      "id": "src_263",
+      "title": "XR Accessibility User Requirements - W3C",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/XR_Accessibility_User_Requirements_-_W3C.md",
+      "candidate_ssot_docs": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_accessibility_and_supports_ssot"
+      ],
+      "source_contribution_type": "supporting_evidence",
+      "recommended_agent_modules": [
+        "planner",
+        "student_guide"
+      ]
+    },
+    {
+      "id": "src_264",
+      "title": "ecoXPT | ecoLearn - Harvard University",
+      "source_file_path": "/Volumes/Drive B/Dropbox/Personal/SecondLife/presentations/VWBPE 2026 Spring/lm-vr-design/ssot/ecoXPT_ecoLearn_-_Harvard_University.md",
+      "candidate_ssot_docs": [
+        "vw_assessment_engine_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_standards_alignment_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "priority_ssot_targets": [
+        "vw_assessment_engine_ssot",
+        "vw_role_play_generator_ssot",
+        "vw_storyworld_generator_ssot"
+      ],
+      "source_contribution_type": "assessment_reference",
+      "recommended_agent_modules": [
+        "planner",
+        "world_designer",
+        "scenario_writer",
+        "assessment_designer",
+        "teacher_coach"
+      ]
+    }
+  ]
+}
